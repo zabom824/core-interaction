@@ -10,7 +10,7 @@ Bryant Wells (Lab)
 
 ## Resources
 
-#### Troubleshooting
+**Troubleshooting**
 [StackOverflow](http://stackoverflow.com/)  
 [W3C](http://www.w3schools.com/)  
 [MDN](https://developer.mozilla.org/en-US/docs/Learn)  
