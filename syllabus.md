@@ -9,7 +9,7 @@ Spring 2017
 9 — 11:40am   
 Thursdays (Building, Room #)
 
-Nitzan Hermon
+Nitzan Hermon  
 Instructor (Studio)  
 
 Bryant Wells  
