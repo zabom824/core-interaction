@@ -3,9 +3,9 @@
 
 ### Instructors
 Nitzan Hermon  
-[contact](x@vvvvvv.co)  
+[contact](mailto:x@vvvvvv.co)  
 
 Bryant Wells (Lab)  
-[contact](bryant@bryantwells.com)
+[contact](mailto:bryant@bryantwells.com)
 
 
