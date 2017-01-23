@@ -10,7 +10,8 @@ Spring 2017
 Thursdays (Building, Room #)
 
 Nitzan Hermon  
-Instructor (Studio)  
+Instructor (Studio) 
+[contact](mailto:x@vvvvvv.co)  
 
 Bryant Wells  
 Instructor (Lab)  
