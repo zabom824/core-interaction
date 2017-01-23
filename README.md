@@ -1,5 +1,5 @@
 # Core Lab/Studio Interaction
-This repo contains course materials for the Core Lab/Studio Interaction at Parsons  
+👋 This repo contains course materials for the Core Lab/Studio Interaction at Parsons
 
 ### Instructors
 Nitzan Hermon  
