@@ -9,9 +9,12 @@ Spring 2017
 9 — 11:40am   
 Thursdays (Building, Room #)
 
+Nitzan Hermon
+Instructor (Studio)  
+
 Bryant Wells  
 Instructor (Lab)  
-[bryant@bryantwells.com](mailto:bryant@bryantwells.com)
+[contact](mailto:bryant@bryantwells.com)
 
 
 
