@@ -12,7 +12,7 @@
 [Google Chrome](https://www.google.com/chrome/)  
 
 ## Learning
-[Codecademy](https://www.codecademy.com/)
-[Shay Howe](http://learn.shayhowe.com/advanced-html-css/)
+[Codecademy](https://www.codecademy.com/)  
+[Shay Howe](http://learn.shayhowe.com/advanced-html-css/)  
 [EloquentJS](http://eloquentjavascript.net/)
 
