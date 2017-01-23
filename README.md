@@ -1,2 +1,2 @@
 # core-interaction
-Course Materials for Core Lab/Studio Interaction at Parsons
+This repo contains course materials for the Core Lab/Studio Interaction at Parsons
