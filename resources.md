@@ -6,8 +6,8 @@
 [CodePen](http://codepen.io/)  
 
 ## Software
-[Sketch](https://www.sketchapp.com/)
-[SublimeText](https://www.sublimetext.com/)
-[Github Desktop](https://desktop.github.com/)
-[Google Chrome](https://www.google.com/chrome/)
+[Sketch](https://www.sketchapp.com/)  
+[SublimeText](https://www.sublimetext.com/)  
+[Github Desktop](https://desktop.github.com/)  
+[Google Chrome](https://www.google.com/chrome/)  
 
