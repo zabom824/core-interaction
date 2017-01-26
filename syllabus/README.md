@@ -2,27 +2,31 @@
 
 Parsons School for Design  
 Communication Design  
-Core Lab Interaction  
+Core Interaction  
 PUCD 2126 / CRN 5425  
 Spring 2017
 
-9 — 11:40am   
-Thursdays (Building, Room #)
 
-Nitzan Hermon  
-Instructor (Studio) 
-[contact](mailto:x@vvvvvv.co)  
+Studio
+9 – 11:40  
+Tuesday, Friday  
+[Nitzan Hermon](mailto:x@byed.it)
 
-Bryant Wells  
-Instructor (Lab)  
-[contact](mailto:bryant@bryantwells.com)
+
+Lab
+9 – 11:40am   
+Thursdays
+[Bryant Wells](mailto:bryant@bryantwells.com)
+
+
+
 
 
 
 # Course Description
 
 ### Studio
-This course exposes students to thorough and elaborate interactive concepts and techniques for applications. It is an extensive investigation in the interface, the mechanism, the controls and the aims of interactive works. Students will learn how to design and develop complex interactive projects and understand how to undertake a comprehensive research and direct their thinking process from brainstorming to final outcome. They will be given the tools to conceive, plan and develop an interactive system and they will become aware of the importance of their role in the development of interactive media.
+We will exercise thinking and communication individually and as a group. We will use the course material, and our own thinking patterns as the foundation for building our respective practices
 
 ### Lab  
 This course serves as a complement to Core Studio Interaction. The assignments are built to work in tandem with the projects students are developing in the studio class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.
@@ -35,29 +39,40 @@ This course serves as a complement to Core Studio Interaction. The assignments a
 
 ### Lab
 
-| Week    | Date | Notes
-| ------- | ---- |:-----
-| Week 1  | 1/26 | Introductions <br> HTML I: What is HTML? What is a server?
-| Week 2  | 2/2  | HTML II: Media tags and semantic elements
-| Week 3  | 2/9  | Layout I: Basic CSS
-| Week 4  | 2/16 | Layout II: The Box Model and Drawing with CSS
-| Week 5  | 2/23 | Layout III: Practices for Responsive Design
-| Week 6  | 3/2  | Midterm Work Session
-| Week 7  | 3/9  | Midterm Critique
-| Week 8  | 3/16 | Layout IV: Advanced Positioning and Rich Media
-| Week 9  | 3/23 | JS I: Vars, Loops, and Conditionals
-| Week 10 | 3/30 | JS II: Functions
-| Week 11 | 4/6  | JS III: Events
-| Week 12 | 4/13 | JS IV: Randomness
-| Week 13 | 4/20 | Final Project Work Session
-| Week 14 | 4/27 | Final Project Work Session
-| Week 15 | 5/4  | Final Project Critique
+| Week    | Lab | Studio
+| ------- |:----- | -----
+|  1  | HTML, Servers & Git| Intro to Thinking 
+|  2  | HTML & CSS | First graphic interfaces
+|  3  | Advanced CSS I | Birth of the user
+|  4  | Advanced CSS II | Smalltalk and Model View Controller 
+|  5  | Responsive Practices |  Early internet: 1993, Creative Commons, Slow Web
+|  6  | Work Session | Layout and Visual Language
+|  7  | Midterm Critique | Geometry and optical art
+|  8  | Javacsript I | Mechanics of reading
+|  9  | Javscript II | Typesetting: Metal, and Screens
+|  10 | jQuery I | Type and letterforms: Basics 
+|  11 | jQuery II | Font Technology
+|  12 | JS Libraries | Interaction of Color
+|  13 | Work Session | Thinking in Motion
+|  14 | Work Session | Prototyping: Tools and Techniques 
+|  15 | Final Critique | Thinking ahead: How to approach interests
 
 
 
 # Learning Outcomes
 
 *By the end of the semester, students will be able to:*
+
+
+### Studio 
+
+1. gain a broad understanding of the fundamentals of interfaces, interface design and interactive systems 
+2. understand the mechanics of a digital product, and various approaches to designing systems 
+3. trace the narrative of the internet. Its history and future.
+4. be able to articulate and develop on ideas from art, geometry, and graphics in designing interactive systems 
+5. articulate and make positive use of personal research interests, as the foundation for the student's practice 
+6. learn to use various tools for communication of ideas, and prototyping 
+
 
 ### Lab
 
@@ -103,16 +118,19 @@ This course serves as a complement to Core Studio Interaction. The assignments a
 # Assessable Tasks
 
 ### Project 1
-Choose and set a text using HTML and CSS so that the reader will not only be able to read the story but also experience your interpretation of the text. You may use one page or multiple pages to convey this experience. This experience will be viewed on both large and small (mobile) screens. You should use no more than two typefaces. Rep- resentational images are not allowed.
+
+Build an archive of media with the subject matter of your choosing. Create an interface to navigate between and create sub collections of the archive. What are the different ways you may organize the content? How may the structure of your collection reflect the meaning communicated?
+
 
 ### Project 2
-Build an archive of media with the subject matter of your choosing. Create an interface to navigate between and create sub collections of the archive. What are the different way you may organize the content? How may the structure of your collection reflect the meaning communicated?
 
-### Project 3
-In this project, you will create a typeface using HTML and CSS. Minimal use of imagery is allowed if the image is not the complete letterform. Think about what it means to make a typeface for the screen versus the printed page. How do the constraints from one medium differ from the other? Your concept should be reflected in the formal qualities of the typeface and should also allude to the way in which the typeface is created, via programming. Additionally, you will create a website which uses the typeface its primary means of communication, as a way to reinforce and further explore the ideas present within your font.
+Find an expression of your theme, communicate and build it using HTML, CSS and JS. No images allowed.
 
-### Project 4
-This project asks you to design and develop (using HTML, CSS, and JavaScript) a website which uses chance as a means of generating both content and form. Your website should articulate a ruleset which determines how its content is constructed, and should consider how its form might evolve over time by making use of various event states.
+
+
+### Project 3 
+Create a site that responds to time. The site should respond to multiple variables. How does the site's content and visual appearance change from second to second? Hour to hour? Day to Day? Week to Week?
+
 
 ### Lab Exercises
 There will be both in-class and homework assignments most weeks. All assignments should be stored on Github as subfolders of your lab repository.
@@ -121,15 +139,15 @@ There will be both in-class and homework assignments most weeks. All assignments
 
 # Assessment Criteria
 
-### Lab
+### Studio and Lab
 
 | Assessment                        | %    |
 |-----------------------------------|------|
-| Participation/Attendance          | 20%  |
-| In-class and homework assignments | 35%  |
+| Attendance                        | 20%  |
+| Biweekly Research Assignment      | 30%  |
 | Project 1                         | 15%  |
 | Project 2                         | 15%  |
-| Project 3                         | 15%  |
+| Project 3                         | 20%  |
 | TOTAL                             | 100% |
 
 
@@ -157,34 +175,34 @@ There will be both in-class and homework assignments most weeks. All assignments
 
 # Grading Standards
 
-**A [4.0; 96–100%]**
+**A [4.0; 96–100%]**  
 Work of exceptional quality, which often goes beyond the stated goals of the course
 
-**A- [3.7; 91 –95%]**
+**A- [3.7; 91 –95%]**  
 Work of very high quality
 
-**B+ [3.3; 86–90%]**
+**B+ [3.3; 86–90%]**  
 Work of high quality that indicates substantially higher than average abilities
 
-**B [3.0; 81–85%]**
+**B [3.0; 81–85%]**  
 Very good work that satisfies the goals of the course
 
-**B- [2.7; 76–80%]**
+**B- [2.7; 76–80%]**  
 Good work
 
-**C+ [2.3; 71–75%]**
+**C+ [2.3; 71–75%]**  
 Above­average work
 
-**C [2.0; 66–70%]**
+**C [2.0; 66–70%]**  
 Average work that indicates an understanding of the course material; passable Satisfactory completion of a course is considered to be a grade of C or higher.
 
-**C- [1.7; 61–65%]**
+**C- [1.7; 61–65%]**  
 Passing work but below good academic standing
 
-**D [1.0; 46–60%]**
+**D [1.0; 46–60%]**  
 Below­average work that indicates a student does not fully understand the assignments; Probation level though passing for credit
 
-**F [0.0; 0–45%]**
+**F [0.0; 0–45%]**  
 Failure, no credit
 
 ### Grade of W
